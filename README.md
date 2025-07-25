@@ -4,7 +4,7 @@ Demo notebooks showing how to use [Chunkr AI](https://chunkr.ai) to process docu
 
 ## Examples
 
-- `chunkr_excel_dashboard_demo.ipynb` - Upload Excel file to Chunkr, extract tables, and build an interactive dashboard
+- `chunkr_excel_dashboard_demo.ipynb` - Upload Excel file to Chunkr, extract tables, and build a dashboard
 
 ## Usage
 
